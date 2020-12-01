@@ -1,4 +1,4 @@
-ng-recaptcha@6.0.2
+ng-recaptcha@6.1.0
 MIT
 The MIT License (MIT)
 
